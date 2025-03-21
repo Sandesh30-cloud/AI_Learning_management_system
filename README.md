@@ -7,12 +7,12 @@ Before running the project, install all required dependencies:
 
 ```bash
 npm install
-# or
-yarn install
-# or
-pnpm install
-# or
-bun install
+npm i axios
+npm install drizzle-orm
+npm i @google/generative-ai
+npm i drizzle-orm @neondatabase/serverless dotenv
+npx shadcn@latest init
+
 ```
 
 ### 2⃣ Start the Development Server  
