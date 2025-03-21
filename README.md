@@ -67,8 +67,7 @@ npm start
   ```
 - Ensure you have the correct Node.js version installed. **Recommended: `>=16.x`**  
 - Check the logs for any errors and verify environment variables if needed.
+- Refer inngest, drizzle and Clerk Documentaion
 
 ---
-
-Happy coding! 🎉🚀
 
